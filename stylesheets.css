@@ -87,3 +87,15 @@ iframe {
     margin-left: 20px;
     border-radius: 10px;
 }
+
+#header-history {
+    font-family: 'Poppins', sans-serif;
+    min-height: 100%;
+    min-width: 100%;
+    background-image: url(/Img/bg-history.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
