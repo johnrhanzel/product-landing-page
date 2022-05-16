@@ -78,3 +78,12 @@ a:hover {
     letter-spacing: .2em;
     font-weight: 900;
 }
+
+.home-container {
+    display: flex;
+}
+
+iframe {
+    margin-left: 20px;
+    border-radius: 10px;
+}
