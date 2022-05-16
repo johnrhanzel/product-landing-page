@@ -64,3 +64,17 @@ a:hover {
     letter-spacing: .1em;
     font-weight: 900;
 }
+
+#pepsi-red {
+    color: #fb0000;
+    line-height: 2.9rem;
+    letter-spacing: .1em;
+    font-weight: 900;
+}
+
+#pepsi-blue {
+    color: #0080ff;
+    line-height: 2.9rem;
+    letter-spacing: .2em;
+    font-weight: 900;
+}
