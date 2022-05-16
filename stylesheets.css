@@ -105,3 +105,57 @@ iframe {
     color: #ffffffed;
     padding-top: 20px;
 }
+
+.founding {
+    border-radius: 25px;
+    background: #3a93ec;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 200px;
+    color: #ffffffed;
+}
+
+.moving {
+    border-radius: 25px;
+    background: #3a93ec;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 430px;
+    color: #ffffffed;
+}
+
+.ranks {
+    border-radius: 25px;
+    background: #3a93ec;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 660px;
+    color: #ffffffed;
+}
+
+.soviet {
+    border-radius: 25px;
+    background: #3a93ec;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 890px;
+    color: #ffffffed;
+}
+
+.present {
+    border-radius: 25px;
+    background: #3a93ec;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 1130px;
+    color: #ffffffed;
+}
+
+#learn-more {
+    color: #ffffffed;
+}
