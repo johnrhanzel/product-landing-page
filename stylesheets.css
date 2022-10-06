@@ -242,9 +242,14 @@ input[type=submit]:hover {
     }
 
     /* Home Container */
-    .home-container{
+    .home-container {
         padding: 1em;
+        background-image: url(/Img/bg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
+
     .home-container {
         height: auto;
         display: flex;
@@ -270,7 +275,7 @@ input[type=submit]:hover {
     }
 
     /* History Container */
-    #header-history{
+    #header-history {
         padding: 1em;
         height: auto;
     }
@@ -285,7 +290,7 @@ input[type=submit]:hover {
         grid-template-rows: repeat(3, auto);
     }
 
-    .cards{
+    .cards {
         background: #06283D;
         border-radius: 2em;
         padding: 1em;
@@ -293,33 +298,38 @@ input[type=submit]:hover {
         width: 21em;
     }
 
-    .cards h3, p{
+    .cards h3,
+    p {
         color: #ffff;
     }
 
     /* Contact Container */
-    #header-contact{
+    #header-contact {
         height: auto;
         width: 100%;
         border-top: 2px solid #06283D;
         background: #06283D;
         margin-top: 2em;
     }
-    form{
+
+    form {
         padding: 1em;
     }
 
-    label{
+    label {
         color: #fff;
     }
 
-    #email, #message{
+    #email,
+    #message {
         width: 27em;
     }
-    #message{
+
+    #message {
         height: 15vh;
     }
-    #submit{
+
+    #submit {
         background: #256D85;
         color: #fff;
         height: 5vh;
@@ -327,24 +337,24 @@ input[type=submit]:hover {
         border-radius: .3em;
     }
 
-    #submit:hover{
+    #submit:hover {
         background: #47B5FF;
     }
 
     /* Footer Container */
-    .footer-container{
+    .footer-container {
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
         height: auto;
         padding: 0.7em;
     }
-    
-    #footer-logo{
+
+    #footer-logo {
         height: 7vh;
     }
 
-    .footer-links{
+    .footer-links {
         list-style: none;
         padding-left: 1vh;
     }
@@ -356,8 +366,9 @@ input[type=submit]:hover {
 
 /* Media for Desktop */
 @media screen and (min-width: 850px) {
-     /* History Container */
-     #header-history{
+
+    /* History Container */
+    #header-history {
         padding: 1em;
         height: auto;
     }
@@ -373,7 +384,7 @@ input[type=submit]:hover {
         grid-gap: 1em 15em;
     }
 
-    .cards{
+    .cards {
         background: #06283D;
         border-radius: 2em;
         padding: 1em;
@@ -381,7 +392,8 @@ input[type=submit]:hover {
         width: 21em;
     }
 
-    .cards h3, p{
+    .cards h3,
+    p {
         color: #ffff;
     }
 }
