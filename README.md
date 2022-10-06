@@ -30,13 +30,3 @@ User Story #13: The navbar should always be at the top of the viewport.
 User Story #14: My product landing page should have at least one media query.
 
 User Story #15: My product landing page should utilize CSS flexbox at least once.
-
-
--- Know more about me --
-
-- 👋 Hi, I’m John Rhanzel
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me johnrhanzeleb@gmail.com
-- 🐥 Follow me on twitter @hellorhanzel
