@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 /* Media for Mobile and Tablet */
-@media screen and (min-width: 400px) and (max-width: 850px) {
+@media screen and (min-width: 350px) and (max-width: 850px) {
 
     /* Home Container */
     .home-container {
@@ -106,7 +106,7 @@ nav a:hover {
         border-radius: 2em;
         padding: 1em;
         margin-top: 3vh;
-        width: 21em;
+        width: 18em;
     }
 
     .cards h3,
