@@ -249,6 +249,7 @@ nav a:hover {
         padding: 1em;
         margin-top: 3vh;
         width: 21em;
+        height: auto;
     }
 
     .cards h3,
