@@ -31,6 +31,6 @@ User Story #14: My product landing page should have at least one media query.
 
 User Story #15: My product landing page should utilize CSS flexbox at least once.
 
-<h1>Website Up:
+<h1>Website Up:</h1>
 
 <h3>https://johnrhanzel.github.io/product-landing-page/</h3>
